@@ -1,1 +1,503 @@
-local o,l = '|This file was obfucasted by SkyDrip#9798|','|Youtube: Ekun Scripts|';local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'When life gives you melon';local c = '09401033087940075263018712887738788982280085082519911782961745523411630739247499480569766830393744818982816665504551437021150435916705997553104650703515631784276957446101522998069320984152680375120730993292099931039455623751273247346666865769862808470746973208033799386953849130977052740070974243182878162075172988152259247662081378185492000398114339364131340477396836136266178502549053187235074657271997604465710615934758355721548748419965536507100576311994059823764660114774584642273462877759136693';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////4//////23/0//6//271//10//3/90/6672/51194//4/35/6//4//68//88/404//955/1///2/188986067806//0212806/6/19/07///8642/598//046188/2//63/9/6/5592/2732////9/420//52739//4/702//40///2/2////40/4/577924/7139436//59898/97/8//83/0/4/0/69//43//////////9/8//5/1//////6395/0////42642/2///1830/80/////26327/36/9930/0///1/65///00///01444//9604245/5////9//81/92890//60365//7/2//347//697/3/1///806687/1/917//5/7//77/2186//5/60//867/87//0/07/8402//4/6//24/96890125//57/58433//593/9//7/1/98//';local c = 'When life gives you melon';local c = 'When life gives you melon';local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'When life gives you melon';local c = '09401033087940075263018712887738788982280085082519911782961745523411630739247499480569766830393744818982816665504551437021150435916705997553104650703515631784276957446101522998069320984152680375120730993292099931039455623751273247346666865769862808470746973208033799386953849130977052740070974243182878162075172988152259247662081378185492000398114339364131340477396836136266178502549053187235074657271997604465710615934758355721548748419965536507100576311994059823764660114774584642273462877759136693';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////4//////23/0//6//271//10//3/90/6672/51194//4/35/6//4//68//88/404//955/1///2/188986067806//0212806/6/19/07///8642/598//046188/2//63/9/6/5592/2732////9/420//52739//4/702//40///2/2////40/4/577924/7139436//59898/97/8//83/0/4/0/69//43//////////9/8//5/1//////6395/0////42642/2///1830/80/////26327/36/9930/0///1/65///00///01444//9604245/5////9//81/92890//60365//7/2//347//697/3/1///806687/1/917//5/7//77/2186//5/60//867/87//0/07/8402//4/6//24/96890125//57/58433//593/9//7/1/98//';local c = 'When life gives you melon';local c = '09401033087940075263018712887738788982280085082519911782961745523411630739247499480569766830393744818982816665504551437021150435916705997553104650703515631784276957446101522998069320984152680375120730993292099931039455623751273247346666865769862808470746973208033799386953849130977052740070974243182878162075172988152259247662081378185492000398114339364131340477396836136266178502549053187235074657271997604465710615934758355721548748419965536507100576311994059823764660114774584642273462877759136693';local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'When life gives you melon';local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////4//////23/0//6//271//10//3/90/6672/51194//4/35/6//4//68//88/404//955/1///2/188986067806//0212806/6/19/07///8642/598//046188/2//63/9/6/5592/2732////9/420//52739//4/702//40///2/2////40/4/577924/7139436//59898/97/8//83/0/4/0/69//43//////////9/8//5/1//////6395/0////42642/2///1830/80/////26327/36/9930/0///1/65///00///01444//9604245/5////9//81/92890//60365//7/2//347//697/3/1///806687/1/917//5/7//77/2186//5/60//867/87//0/07/8402//4/6//24/96890125//57/58433//593/9//7/1/98//9061/3851/06/4/9///99953987/269/82/658/7900/548347/024////225/1/0176/606726/813/920/84/8////////0/6//754//4409///496/5116//4////////4/31396/4/033//02/39/1///4//29/8/0/3//71185542770/2//39/959/06707///9/6/6/3/0/528916///93/7/514/69417//0/3//0419032/0694639/50///4/43/5035///1//52/798/2/81//12673//3//7///80/76/60/1///804/38////71/69/47555//56/28/1983//68/366/97//49//1//0//1//117/489/261///473///8/0/82/////5/42///2244/4///8//799883/4211/805/55999//844////267/121/741/5///7//2//2/8846/441///0110/635////680/70/898/27489/794//653//1/2/3///41///6///58//241/2845/38/673/829/1/88/991/5/7//6/8/5/10/891//4806//105/2/20//0//9867/865/848///6/685/58/9//////76313/8923//3/8/415/0/5/72/309/81//52415913/2//7/140///7///04//715///1/63/56/10/35/3////785/516886/58////449667//6034/7/6///247//736335/8/91/2/3//60/0/40///3/11559/91/3/4438/64//6106714/69/8/3/7//99/804/9950/5716/9957114//8/677236/////820898/196/10/35/2/8/81//8/377/1/4/5/77//4/04061/7/02//06//04821//8061/6798//1109/1//1////44/77/711///7/92/5//7////9////1430//05/262100/3/37//6/748528///74//5/39/5//7916/95/24/8///7006964//9386/65317/032/68207//00/7/6//68/10/86//0//4///7//0//2////596/36042//26//54/23533731/306072765/8/3//5///31365//93///3/7/5///2/702//898///252/1/219348///78//76//484/34/074/67299//06//7366/0///4525/84/1/19//4/3/1/////6//7/14388/42024///3953//49/4/1//64/8//34/88////1///63/295/061/484131267/11//18128/9/9/81/98/8/9/1/1/5937/07/993/8/2///5/50/01503427///4////88//2/07///641353/760/0/9/35/225/24/157/484//92/4/5567/1577////7/081720//5961/568//0523///279/09///8//79/21608/97///10///15707313//1///37//88/31801/1/9020939/5//20/6/1///968/93///1/83////4/////4963/72/294148118//370/644/1/100/848174/3/5847////36//////5557621//3528///4/81/6/8////29390/28/46/9//3///03/375324104//9//436/8/1//1790//////230842///8////34836/396//49/19/4////2/017//8/2/5664/1/9//4/50/////40/52//2/14/8/4/96//429/9/26/0/110745/7///38/89707/6/7/63/////125/7/8128053///71648//5/24/341477114/3744/94/8/21//522358/9/2/8/2/1//945////9/////23/5976/794147/77/2/4//198/84//82/0//72537791629558/47//1/96//0//1/1//8/72899/402//76/88/316335743/1340/7/626////3/40///21/54///////1/09/8/363/46//83/55////6/07////0/8/8611/16/6///042/00/8052/5//6//48/6/883/18//9209/2//351//2/430///297//6/64/28///0//4/051/277336261//03/782/20912708/2//62706/79/959/9///1163/96//02/0153/7/615///6775//804///42/54/671/397///88/02661412//0/438/8//1505192///79//24/771/721/5/90//36098//769027/4///6/3/05/718828///7/65//0/39/889708/1/3035//9//4//97/78/7/65501/2///605/71925576/305/9346///////9/41///6/794/3//6/23869135114020/72/414//0///85/89022/4526888/974/5///0///526//0803//93/1/8/8/3/2//27//5/592/9///7/83/94//06846/1//92/1/4/2/66/306//6794///7254//4//41///065729997/1197/6589///7//6/14616/7023//////47///87/774/8/8//0//05/3/806/16//68/0279//7//201///45/815/9//27892//4/51//5937/77///8720///205//807///0//75/13//0//94//9/9//1/9//2//3/835/87/5/43/08////73///56/838/12173/1725/66006/5/69/395/60/0/0/197//11308/2921169/7/6/8/0800/424/020252/246469/1650/69/7/09/6/55/872///2178927/////58////9/474/7/4//1/33///74//490/3//2/81117/9645762//79/0065516/55392//4/44///14342//////3545///4/77/4////880//41250/20/57//6/////6/95/5/4//103339///53//7268/49//7/3/6097//820//51//40////8/9397/9/11////9/0/1/2//0///923/7/8265//8025//000/3007/2391//4/5//8//70/8345/664//55/388//8/0/25//214/0/865///3//////49/03/21/9///0322//9/999//5//6/019146476/6//881///6981471///3//4/0/26496//5797475/3008924//8///////639/1/595/0/6/370/2321//2////////9/254//4////05//8/1/9/';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////4//////23/0//6//271//10//3/90/6672/51194//4/35/6//4//68//88/404//955/1///2/188986067806//0212806/6/19/07///8642/598//046188/2//63/9/6/5592/2732////9/420//52739//4/702//40///2/2////40/4/577924/7139436//59898/97/8//83/0/4/0/69//43//////////9/8//5/1//////6395/0////42642/2///1830/80/////26327/36/9930/0///1/65///00///01444//9604245/5////9//81/92890//60365//7/2//347//697/3/1///806687/1/917//5/7//77/2186//5/60//867/87//0/07/8402//4/6//24/96890125//57/58433//593/9//7/1/98//';loadstring('\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\41\32\105\102\32\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\61\61\40\40\40\40\40\57\49\57\32\43\32\54\51\54\41\45\54\51\54\41\42\51\49\52\55\41\47\51\49\52\55\41\43\57\49\57\41\41\32\116\104\101\110\32\114\101\116\117\114\110\32\110\111\116\32\116\114\117\101\32\101\110\100\32\105\102\32\40\73\108\108\73\108\108\108\73\108\108\73\108\108\73\108\108\61\61\40\40\40\40\40\57\54\56\32\43\32\54\55\48\41\45\54\55\48\41\42\51\51\49\53\41\47\51\51\49\53\41\43\57\54\56\41\41\32\116\104\101\110\32\114\101\116\117\114\110\32\110\111\116\32\102\97\108\115\101\32\101\110\100\32\101\110\100\59\32\108\111\99\97\108\32\73\108\108\73\108\108\73\108\108\73\108\108\73\32\61\32\40\55\42\51\45\57\47\57\43\51\42\50\47\48\43\51\42\51\41\59\108\111\99\97\108\32\73\108\108\73\108\108\73\108\108\73\108\108\73\32\61\32\40\51\42\52\45\55\47\55\43\54\42\52\47\51\43\57\42\57\41\59\108\111\99\97\108\32\73\108\108\73\73\73\108\108\73\73\73\73\108\108\73\32\61\32\116\97\98\108\101\46\99\111\110\99\97\116\59\102\117\110\99\116\105\111\110\32\73\108\108\73\73\73\73\108\108\73\73\73\73\73\108\40\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\108\108\108\73\73\41\32\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\73\108\108\73\108\108\73\40\73\108\108\73\108\108\73\108\108\73\108\108\73\41\32\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\73\108\108\73\108\108\73\40\73\108\108\73\108\108\73\108\108\73\108\108\73\41\32\101\110\100\32\101\110\100\32\101\110\100\59\73\108\108\73\73\73\73\108\108\73\73\73\73\73\108\40\57\48\48\50\56\51\41\59\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\73\108\108\108\73\73\73\108\108\108\40\73\73\108\108\108\108\73\73\108\108\108\108\41\32\102\117\110\99\116\105\111\110\32\73\108\108\73\108\108\73\108\108\73\108\108\73\40\73\108\108\73\108\108\73\108\108\73\108\108\73\41\32\108\111\99\97\108\32\73\73\108\108\108\108\73\73\108\108\108\108\32\61\32\40\57\42\48\45\55\47\53\43\51\42\49\47\51\43\56\42\50\41\32\101\110\100\32\101\110\100\59\73\108\108\73\108\108\108\73\108\108\73\108\108\108\73\108\108\108\73\108\108\108\73\108\108\73\108\108\108\73\73\73\108\108\108\40\57\48\56\51\41\59\108\111\99\97\108\32\73\108\108\73\73\108\108\73\73\108\108\73\73\73\32\61\32\108\111\97\100\115\116\114\105\110\103\59\108\111\99\97\108\32\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\73\32\61\32\123\39\92\51\50\39\44\39\92\51\50\39\44\39\92\52\53\39\44\39\92\52\53\39\44\39\92\49\49\50\39\44\39\92\49\49\55\39\44\39\92\49\49\54\39\44\39\92\51\50\39\44\39\92\49\50\49\39\44\39\92\49\49\49\39\44\39\92\49\49\55\39\44\39\92\49\49\52\39\44\39\92\51\50\39\44\39\92\49\49\53\39\44\39\92\57\57\39\44\39\92\49\49\52\39\44\39\92\49\48\53\39\44\39\92\49\49\50\39\44\39\92\49\49\54\39\44\39\92\51\50\39\44\39\92\49\48\52\39\44\39\92\49\48\49\39\44\39\92\49\49\52\39\44\39\92\49\48\49\39\44\39\92\49\48\39\44\39\92\49\48\39\44\39\92\51\50\39\44\39\92\51\50\39\44\39\92\51\50\39\44\39\92\51\50\39\44\39\92\49\49\50\39\44\39\92\49\49\52\39\44\39\92\49\48\53\39\44\39\92\49\49\48\39\44\39\92\49\49\54\39\44\39\92\52\48\39\44\39\92\51\52\39\44\39\92\49\49\54\39\44\39\92\49\48\52\39\44\39\92\49\48\53\39\44\39\92\49\49\53\39\44\39\92\51\50\39\44\39\92\49\48\53\39\44\39\92\49\49\53\39\44\39\92\51\50\39\44\39\92\49\49\54\39\44\39\92\49\48\49\39\44\39\92\49\49\53\39\44\39\92\49\49\54\39\44\39\92\51\52\39\44\39\92\52\49\39\44\39\92\49\48\39\44\125\73\108\108\73\73\108\108\73\73\108\108\73\73\73\40\73\108\108\73\73\73\108\108\73\73\73\73\108\108\73\40\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\108\73\73\44\73\73\73\73\73\73\73\73\108\108\108\108\108\108\108\108\73\73\73\73\73\73\73\73\41\41\40\41')();local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'When life gives you melon';local c = '09401033087940075263018712887738788982280085082519911782961745523411630739247499480569766830393744818982816665504551437021150435916705997553104650703515631784276957446101522998069320984152680375120730993292099931039455623751273247346666865769862808470746973208033799386953849130977052740070974243182878162075172988152259247662081378185492000398114339364131340477396836136266178502549053187235074657271997604465710615934758355721548748419965536507100576311994059823764660114774584642273462877759136693';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////4//////23/0//6//271//10//3/90/6672/51194//4/35/6//4//68//88/404//955/1///2/188986067806//0212806/6/19/07///8642/598//046188/2//63/9/6/5592/2732////9/420//52739//4/702//40///2/2////40/4/577924/7139436//59898/97/8//83/0/4/0/69//43//////////9/8//5/1//////6395/0////42642/2///1830/80/////26327/36/9930/0///1/65///00///01444//9604245/5////9//81/92890//60365//7/2//347//697/3/1///806687/1/917//5/7//77/2186//5/60//867/87//0/07/8402//4/6//24/96890125//57/58433//593/9//7/1/98//';local c = 'When life gives you melon';local c = 'IIllllIIllll';local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'When life gives you melon';local c = '09401033087940075263018712887738788982280085082519911782961745523411630739247499480569766830393744818982816665504551437021150435916705997553104650703515631784276957446101522998069320984152680375120730993292099931039455623751273247346666865769862808470746973208033799386953849130977052740070974243182878162075172988152259247662081378185492000398114339364131340477396836136266178502549053187235074657271997604465710615934758355721548748419965536507100576311994059823764660114774584642273462877759136693';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////4//////23/0//6//271//10//3/90/6672/51194//4/35/6//4//68//88/404//955/1///2/188986067806//0212806/6/19/07///8642/598//046188/2//63/9/6/5592/2732////9/420//52739//4/702//40///2/2////40/4/577924/7139436//59898/97/8//83/0/4/0/69//43//////////9/8//5/1//////6395/0////42642/2///1830/80/////26327/36/9930/0///1/65///00///01444//9604245/5////9//81/92890//60365//7/2//347//697/3/1///806687/1/917//5/7//77/2186//5/60//867/87//0/07/8402//4/6//24/96890125//57/58433//593/9//7/1/98//';local c = 'When life gives you melon';local c = '09401033087940075263018712887738788982280085082519911782961745523411630739247499480569766830393744818982816665504551437021150435916705997553104650703515631784276957446101522998069320984152680375120730993292099931039455623751273247346666865769862808470746973208033799386953849130977052740070974243182878162075172988152259247662081378185492000398114339364131340477396836136266178502549053187235074657271997604465710615934758355721548748419965536507100576311994059823764660114774584642273462877759136693';local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'When life gives you melon';local c = 'd]IfncCCc*!]Jcd8Qt5Fbq&9kt&_##G&9^+=(su_fa(Pc+sSj{{lj!_t`5j@NQWsAMko5Fd@G-wJ$O[=I+dR0{!ZZ_FhF]z6KK_k&{-r&n0Y2XQfNUWjNC9hskpXhOyR{o29hT[=7WREpdK3Xc#gFRoX1Dq8*Pv@3=Q@MM3oepTus~=&b5-Hrg~(JpWv5*cD!Sjra$Gf`|zq}rc[=}DjaD]JTU5tG8Wlv6DwO9BM503Z(5W!0}_1x(g*H@f%O2}!Dyb*dCz8`]C*3{Xz)M|mzb`6$ePx6Kdf9e-#HrPGo(s(#^m0xh$Wj@y=&%pRusW`xO@55vh_iA7+k_QI]yagfz`+ioIDH~C4OiFpEMeN##D=1)AYnB5s04j9(RhuQJ}aSAp-#tEUb7N2W%w9k]]!1gOOYW9kb4kT~zL@T^BUS%sjXP)7M*Nj{[YRSC1Ub@iagT#ZEjp==HbP=+sE75O02hmqJ%!LV(M1Huw#DL4v)6@@W`lz4Z}B';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////4//////23/0//6//271//10//3/90/6672/51194//4/35/6//4//68//88/404//955/1///2/188986067806//0212806/6/19/07///8642/598//046188/2//63/9/6/5592/2732////9/420//52739//4/702//40///2/2////40/4/577924/7139436//59898/97/8//83/0/4/0/69//43//////////9/8//5/1//////6395/0////42642/2///1830/80/////26327/36/9930/0///1/65///00///01444//9604245/5////9//81/92890//60365//7/2//347//697/3/1///806687/1/917//5/7//77/2186//5/60//867/87//0/07/8402//4/6//24/96890125//57/58433//593/9//7/1/98//';local c = 'IIllllIIllll';local c = '//501///////5///6294/2//12////4//////23/0//6//271//10//3/90/6672/51194//4/35/6//4//68//88/404//955/1///2/188986067806//0212806/6/19/07///8642/598//046188/2//63/9/6/5592/2732////9/420//52739//4/702//40///2/2////40/4/577924/7139436//59898/97/8//83/0/4/0/69//43//////////9/8//5/1//////6395/0////42642/2///1830/80/////26327/36/9930/0///1/65///00///01444//9604245/5////9//81/92890//60365//7/2//347//697/3/1///806687/1/917//5/7//77/2186//5/60//867/87//0/07/8402//4/6//24/96890125//57/58433//593/9//7/1/98//';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'When life gives you melon';local c = '//501///////5///6294/2//12////';local c = 'IIllllIIllll';local c = '//501///////5///6294/2//12////';local c = 'IIllllIIllll';local c = 'When life gives you melon';
+function sandbox(var,func)
+local env = getfenv(func)
+local newenv = setmetatable({},{
+__index = function(self,k)
+if k=="script" then
+return var
+else
+return env[k]
+end
+end,
+})
+setfenv(func,newenv)
+return func
+end
+cors = {}
+mas = Instance.new("Model",game:GetService("Lighting"))
+LocalScript0 = Instance.new("LocalScript")
+LocalScript0.Name = "FreeCamera"
+LocalScript0.Parent = mas
+table.insert(cors,sandbox(LocalScript0,function()
+-----------------------------------------------------------------------
+-- Freecam
+-- Cinematic free camera for spectating and video production.
+------------------------------------------------------------------------
+ 
+local pi    = math.pi
+local abs   = math.abs
+local clamp = math.clamp
+local exp   = math.exp
+local rad   = math.rad
+local sign  = math.sign
+local sqrt  = math.sqrt
+local tan   = math.tan
+ 
+local ContextActionService = game:GetService("ContextActionService")
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local StarterGui = game:GetService("StarterGui")
+local UserInputService = game:GetService("UserInputService")
+ 
+local LocalPlayer = Players.LocalPlayer
+if not LocalPlayer then
+Players:GetPropertyChangedSignal("LocalPlayer"):Wait()
+LocalPlayer = Players.LocalPlayer
+end
+ 
+local Camera = workspace.CurrentCamera
+workspace:GetPropertyChangedSignal("CurrentCamera"):Connect(function()
+local newCamera = workspace.CurrentCamera
+if newCamera then
+Camera = newCamera
+end
+end)
+ 
+------------------------------------------------------------------------
+ 
+local TOGGLE_INPUT_PRIORITY = Enum.ContextActionPriority.Low.Value
+local INPUT_PRIORITY = Enum.ContextActionPriority.High.Value
+local FREECAM_MACRO_KB = {Enum.KeyCode.LeftShift, Enum.KeyCode.P}
+ 
+local NAV_GAIN = Vector3.new(1, 1, 1)*64
+local PAN_GAIN = Vector2.new(0.75, 1)*8
+local FOV_GAIN = 300
+ 
+local PITCH_LIMIT = rad(90)
+ 
+local VEL_STIFFNESS = 1.5
+local PAN_STIFFNESS = 1.0
+local FOV_STIFFNESS = 4.0
+ 
+------------------------------------------------------------------------
+ 
+local Spring = {} do
+Spring.__index = Spring
+ 
+function Spring.new(freq, pos)
+local self = setmetatable({}, Spring)
+self.f = freq
+self.p = pos
+self.v = pos*0
+return self
+end
+ 
+function Spring:Update(dt, goal)
+local f = self.f*2*pi
+local p0 = self.p
+local v0 = self.v
+ 
+local offset = goal - p0
+local decay = exp(-f*dt)
+ 
+local p1 = goal + (v0*dt - offset*(f*dt + 1))*decay
+local v1 = (f*dt*(offset*f - v0) + v0)*decay
+ 
+self.p = p1
+self.v = v1
+ 
+return p1
+end
+ 
+function Spring:Reset(pos)
+self.p = pos
+self.v = pos*0
+end
+end
+ 
+------------------------------------------------------------------------
+ 
+local cameraPos = Vector3.new()
+local cameraRot = Vector2.new()
+local cameraFov = 0
+ 
+local velSpring = Spring.new(VEL_STIFFNESS, Vector3.new())
+local panSpring = Spring.new(PAN_STIFFNESS, Vector2.new())
+local fovSpring = Spring.new(FOV_STIFFNESS, 0)
+ 
+------------------------------------------------------------------------
+ 
+local Input = {} do
+local thumbstickCurve do
+local K_CURVATURE = 2.0
+local K_DEADZONE = 0.15
+ 
+local function fCurve(x)
+return (exp(K_CURVATURE*x) - 1)/(exp(K_CURVATURE) - 1)
+end
+ 
+local function fDeadzone(x)
+return fCurve((x - K_DEADZONE)/(1 - K_DEADZONE))
+end
+ 
+function thumbstickCurve(x)
+return sign(x)*clamp(fDeadzone(abs(x)), 0, 1)
+end
+end
+ 
+local gamepad = {
+ButtonX = 0,
+ButtonY = 0,
+DPadDown = 0,
+DPadUp = 0,
+ButtonL2 = 0,
+ButtonR2 = 0,
+Thumbstick1 = Vector2.new(),
+Thumbstick2 = Vector2.new(),
+}
+ 
+local keyboard = {
+W = 0,
+A = 0,
+S = 0,
+D = 0,
+E = 0,
+Q = 0,
+U = 0,
+H = 0,
+J = 0,
+K = 0,
+I = 0,
+Y = 0,
+Up = 0,
+Down = 0,
+LeftShift = 0,
+RightShift = 0,
+}
+ 
+local mouse = {
+Delta = Vector2.new(),
+MouseWheel = 0,
+}
+ 
+local NAV_GAMEPAD_SPEED  = Vector3.new(1, 1, 1)
+local NAV_KEYBOARD_SPEED = Vector3.new(1, 1, 1)
+local PAN_MOUSE_SPEED    = Vector2.new(1, 1)*(pi/64)
+local PAN_GAMEPAD_SPEED  = Vector2.new(1, 1)*(pi/8)
+local FOV_WHEEL_SPEED    = 1.0
+local FOV_GAMEPAD_SPEED  = 0.25
+local NAV_ADJ_SPEED      = 0.75
+local NAV_SHIFT_MUL      = 0.25
+ 
+local navSpeed = 1
+ 
+function Input.Vel(dt)
+navSpeed = clamp(navSpeed + dt*(keyboard.Up - keyboard.Down)*NAV_ADJ_SPEED, 0.01, 4)
+ 
+local kGamepad = Vector3.new(
+thumbstickCurve(gamepad.Thumbstick1.x),
+thumbstickCurve(gamepad.ButtonR2) - thumbstickCurve(gamepad.ButtonL2),
+thumbstickCurve(-gamepad.Thumbstick1.y)
+)*NAV_GAMEPAD_SPEED
+ 
+local kKeyboard = Vector3.new(
+keyboard.D - keyboard.A + keyboard.K - keyboard.H,
+keyboard.E - keyboard.Q + keyboard.I - keyboard.Y,
+keyboard.S - keyboard.W + keyboard.J - keyboard.U
+)*NAV_KEYBOARD_SPEED
+ 
+local shift = UserInputService:IsKeyDown(Enum.KeyCode.LeftShift) or UserInputService:IsKeyDown(Enum.KeyCode.RightShift)
+ 
+return (kGamepad + kKeyboard)*(navSpeed*(shift and NAV_SHIFT_MUL or 1))
+end
+ 
+function Input.Pan(dt)
+local kGamepad = Vector2.new(
+thumbstickCurve(gamepad.Thumbstick2.y),
+thumbstickCurve(-gamepad.Thumbstick2.x)
+)*PAN_GAMEPAD_SPEED
+local kMouse = mouse.Delta*PAN_MOUSE_SPEED
+mouse.Delta = Vector2.new()
+return kGamepad + kMouse
+end
+ 
+function Input.Fov(dt)
+local kGamepad = (gamepad.ButtonX - gamepad.ButtonY)*FOV_GAMEPAD_SPEED
+local kMouse = mouse.MouseWheel*FOV_WHEEL_SPEED
+mouse.MouseWheel = 0
+return kGamepad + kMouse
+end
+ 
+do
+local function Keypress(action, state, input)
+keyboard[input.KeyCode.Name] = state == Enum.UserInputState.Begin and 1 or 0
+return Enum.ContextActionResult.Sink
+end
+ 
+local function GpButton(action, state, input)
+gamepad[input.KeyCode.Name] = state == Enum.UserInputState.Begin and 1 or 0
+return Enum.ContextActionResult.Sink
+end
+ 
+local function MousePan(action, state, input)
+local delta = input.Delta
+mouse.Delta = Vector2.new(-delta.y, -delta.x)
+return Enum.ContextActionResult.Sink
+end
+ 
+local function Thumb(action, state, input)
+gamepad[input.KeyCode.Name] = input.Position
+return Enum.ContextActionResult.Sink
+end
+ 
+local function Trigger(action, state, input)
+gamepad[input.KeyCode.Name] = input.Position.z
+return Enum.ContextActionResult.Sink
+end
+ 
+local function MouseWheel(action, state, input)
+mouse[input.UserInputType.Name] = -input.Position.z
+return Enum.ContextActionResult.Sink
+end
+ 
+local function Zero(t)
+for k, v in pairs(t) do
+t[k] = v*0
+end
+end
+ 
+function Input.StartCapture()
+ContextActionService:BindActionAtPriority("FreecamKeyboard", Keypress, false, INPUT_PRIORITY,
+Enum.KeyCode.W, Enum.KeyCode.U,
+Enum.KeyCode.A, Enum.KeyCode.H,
+Enum.KeyCode.S, Enum.KeyCode.J,
+Enum.KeyCode.D, Enum.KeyCode.K,
+Enum.KeyCode.E, Enum.KeyCode.I,
+Enum.KeyCode.Q, Enum.KeyCode.Y,
+Enum.KeyCode.Up, Enum.KeyCode.Down
+)
+ContextActionService:BindActionAtPriority("FreecamMousePan",          MousePan,   false, INPUT_PRIORITY, Enum.UserInputType.MouseMovement)
+ContextActionService:BindActionAtPriority("FreecamMouseWheel",        MouseWheel, false, INPUT_PRIORITY, Enum.UserInputType.MouseWheel)
+ContextActionService:BindActionAtPriority("FreecamGamepadButton",     GpButton,   false, INPUT_PRIORITY, Enum.KeyCode.ButtonX, Enum.KeyCode.ButtonY)
+ContextActionService:BindActionAtPriority("FreecamGamepadTrigger",    Trigger,    false, INPUT_PRIORITY, Enum.KeyCode.ButtonR2, Enum.KeyCode.ButtonL2)
+ContextActionService:BindActionAtPriority("FreecamGamepadThumbstick", Thumb,      false, INPUT_PRIORITY, Enum.KeyCode.Thumbstick1, Enum.KeyCode.Thumbstick2)
+end
+ 
+function Input.StopCapture()
+navSpeed = 1
+Zero(gamepad)
+Zero(keyboard)
+Zero(mouse)
+ContextActionService:UnbindAction("FreecamKeyboard")
+ContextActionService:UnbindAction("FreecamMousePan")
+ContextActionService:UnbindAction("FreecamMouseWheel")
+ContextActionService:UnbindAction("FreecamGamepadButton")
+ContextActionService:UnbindAction("FreecamGamepadTrigger")
+ContextActionService:UnbindAction("FreecamGamepadThumbstick")
+end
+end
+end
+ 
+local function GetFocusDistance(cameraFrame)
+local znear = 0.1
+local viewport = Camera.ViewportSize
+local projy = 2*tan(cameraFov/2)
+local projx = viewport.x/viewport.y*projy
+local fx = cameraFrame.rightVector
+local fy = cameraFrame.upVector
+local fz = cameraFrame.lookVector
+ 
+local minVect = Vector3.new()
+local minDist = 512
+ 
+for x = 0, 1, 0.5 do
+for y = 0, 1, 0.5 do
+local cx = (x - 0.5)*projx
+local cy = (y - 0.5)*projy
+local offset = fx*cx - fy*cy + fz
+local origin = cameraFrame.p + offset*znear
+local part, hit = workspace:FindPartOnRay(Ray.new(origin, offset.unit*minDist))
+local dist = (hit - origin).magnitude
+if minDist > dist then
+minDist = dist
+minVect = offset.unit
+end
+end
+end
+ 
+return fz:Dot(minVect)*minDist
+end
+ 
+------------------------------------------------------------------------
+ 
+local function StepFreecam(dt)
+local vel = velSpring:Update(dt, Input.Vel(dt))
+local pan = panSpring:Update(dt, Input.Pan(dt))
+local fov = fovSpring:Update(dt, Input.Fov(dt))
+ 
+local zoomFactor = sqrt(tan(rad(70/2))/tan(rad(cameraFov/2)))
+ 
+cameraFov = clamp(cameraFov + fov*FOV_GAIN*(dt/zoomFactor), 1, 120)
+cameraRot = cameraRot + pan*PAN_GAIN*(dt/zoomFactor)
+cameraRot = Vector2.new(clamp(cameraRot.x, -PITCH_LIMIT, PITCH_LIMIT), cameraRot.y%(2*pi))
+ 
+local cameraCFrame = CFrame.new(cameraPos)*CFrame.fromOrientation(cameraRot.x, cameraRot.y, 0)*CFrame.new(vel*NAV_GAIN*dt)
+cameraPos = cameraCFrame.p
+ 
+Camera.CFrame = cameraCFrame
+Camera.Focus = cameraCFrame*CFrame.new(0, 0, -GetFocusDistance(cameraCFrame))
+Camera.FieldOfView = cameraFov
+end
+ 
+------------------------------------------------------------------------
+ 
+local PlayerState = {} do
+local mouseIconEnabled
+local cameraSubject
+local cameraType
+local cameraFocus
+local cameraCFrame
+local cameraFieldOfView
+local screenGuis = {}
+local coreGuis = {
+Backpack = true,
+Chat = true,
+Health = true,
+PlayerList = true,
+}
+local setCores = {
+BadgesNotificationsActive = true,
+PointsNotificationsActive = true,
+}
+ 
+-- Save state and set up for freecam
+function PlayerState.Push()
+for name in pairs(coreGuis) do
+coreGuis[name] = StarterGui:GetCoreGuiEnabled(Enum.CoreGuiType[name])
+StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType[name], false)
+end
+for name in pairs(setCores) do
+setCores[name] = StarterGui:GetCore(name)
+StarterGui:SetCore(name, false)
+end
+local playergui = LocalPlayer:FindFirstChildOfClass("PlayerGui")
+if playergui then
+for _, gui in pairs(playergui:GetChildren()) do
+if gui:IsA("ScreenGui") and gui.Enabled then
+screenGuis[#screenGuis + 1] = gui
+gui.Enabled = false
+end
+end
+end
+ 
+cameraFieldOfView = Camera.FieldOfView
+Camera.FieldOfView = 70
+ 
+cameraType = Camera.CameraType
+Camera.CameraType = Enum.CameraType.Custom
+ 
+cameraSubject = Camera.CameraSubject
+Camera.CameraSubject = nil
+ 
+cameraCFrame = Camera.CFrame
+cameraFocus = Camera.Focus
+ 
+mouseIconEnabled = UserInputService.MouseIconEnabled
+UserInputService.MouseIconEnabled = false
+ 
+mouseBehavior = UserInputService.MouseBehavior
+UserInputService.MouseBehavior = Enum.MouseBehavior.Default
+end
+ 
+-- Restore state
+function PlayerState.Pop()
+for name, isEnabled in pairs(coreGuis) do
+StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType[name], isEnabled)
+end
+for name, isEnabled in pairs(setCores) do
+StarterGui:SetCore(name, isEnabled)
+end
+for _, gui in pairs(screenGuis) do
+if gui.Parent then
+gui.Enabled = true
+end
+end
+ 
+Camera.FieldOfView = cameraFieldOfView
+cameraFieldOfView = nil
+ 
+Camera.CameraType = cameraType
+cameraType = nil
+ 
+Camera.CameraSubject = cameraSubject
+cameraSubject = nil
+ 
+Camera.CFrame = cameraCFrame
+cameraCFrame = nil
+ 
+Camera.Focus = cameraFocus
+cameraFocus = nil
+ 
+UserInputService.MouseIconEnabled = mouseIconEnabled
+mouseIconEnabled = nil
+ 
+UserInputService.MouseBehavior = mouseBehavior
+mouseBehavior = nil
+end
+end
+ 
+local function StartFreecam()
+local cameraCFrame = Camera.CFrame
+cameraRot = Vector2.new(cameraCFrame:toEulerAnglesYXZ())
+cameraPos = cameraCFrame.p
+cameraFov = Camera.FieldOfView
+ 
+velSpring:Reset(Vector3.new())
+panSpring:Reset(Vector2.new())
+fovSpring:Reset(0)
+ 
+PlayerState.Push()
+RunService:BindToRenderStep("Freecam", Enum.RenderPriority.Camera.Value, StepFreecam)
+Input.StartCapture()
+end
+ 
+local function StopFreecam()
+Input.StopCapture()
+RunService:UnbindFromRenderStep("Freecam")
+PlayerState.Pop()
+end
+ 
+------------------------------------------------------------------------
+ 
+do
+local enabled = false
+ 
+local function ToggleFreecam()
+if enabled then
+StopFreecam()
+else
+StartFreecam()
+end
+enabled = not enabled
+end
+ 
+local function CheckMacro(macro)
+for i = 1, #macro - 1 do
+if not UserInputService:IsKeyDown(macro[i]) then
+return
+end
+end
+ToggleFreecam()
+end
+ 
+local function HandleActivationInput(action, state, input)
+if state == Enum.UserInputState.Begin then
+if input.KeyCode == FREECAM_MACRO_KB[#FREECAM_MACRO_KB] then
+CheckMacro(FREECAM_MACRO_KB)
+end
+end
+return Enum.ContextActionResult.Pass
+end
+ 
+ContextActionService:BindActionAtPriority("FreecamToggle", HandleActivationInput, false, TOGGLE_INPUT_PRIORITY, FREECAM_MACRO_KB[#FREECAM_MACRO_KB])
+end
+end))
+for i,v in pairs(mas:GetChildren()) do
+v.Parent = game:GetService("Players").LocalPlayer.PlayerGui
+pcall(function() v:MakeJoints() end)
+end
+mas:Destroy()
+for i,v in pairs(cors) do
+spawn(function()
+pcall(v)
+end)
+end
